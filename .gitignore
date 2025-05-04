@@ -31,6 +31,20 @@ wheels/
 *.swp
 *.swo
 
+# Environment variables
+.env
+
+# Test files
+*.log
+.pytest_cache/
+
+# Sample documents
+sample_docs/*.pdf
+sample_docs/*.txt
+
+# Streamlit
+.streamlit/
+
 # OS
 .DS_Store
 Thumbs.db
