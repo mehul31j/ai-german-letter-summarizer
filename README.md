@@ -1,6 +1,6 @@
 # AI German Document Summarizer
 
-A Streamlit application that uses OCR and AI to extract, summarize, and analyze German documents (letters, invoices, contracts).
+A Streamlit application that uses OCR and AI to extract, summarize, and analyze documents (letters, invoices, contracts).
 
 ## Features
 
